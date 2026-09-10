@@ -1,4 +1,4 @@
-> ⚠️ **Aviso aos novos seguidores:** esta é agora minha conta **primária** no GitHub. Perdi o acesso à minha conta antiga ([@josevitor555](https://github.com/josevitor555)) por um problema com MFA. Esta conta ([@josevitor10975](https://github.com/josevitor10975)) dá continuidade ao trabalho que eu vinha fazendo por lá — **não é objetivo migrar ou recriar os repositórios antigos aqui**, exceto quando fizer sentido no contexto de uma atualização de feature nova de algum desses projetos.
+> ⚠️ **Notice to new followers:** this is now my **primary** GitHub account. I lost access to my previous account ([@josevitor555](https://github.com/josevitor555)) due to an MFA issue. This account ([@josevitor10975](https://github.com/josevitor10975)) carries forward the work I was doing there — **the goal is not to migrate or recreate the old repositories here**, except when it makes sense in the context of shipping a new feature update to one of those projects.
 
 # Hi, I'm José Vitor
 
