@@ -6,7 +6,7 @@
 
 I build modern web applications by combining modular backend architecture, responsive interfaces and AI-powered features — with a particular focus on provider-agnostic AI integration: designing systems where models and providers can be evaluated or swapped without rewriting the application around them.
 
-🎓 Undergraduate thesis (TCC) graded **10/10** · 🏆 IAArena selected in the **top 200 of Centelha PI**
+🎓 Undergraduate thesis graded **10/9.75** · 🏆 IAArena selected in the **top 200 of Centelha PI**
 
 <p align="left">
   <a href="https://linkedin.com/in/josé-vitor-sousa2003" target="_blank">
