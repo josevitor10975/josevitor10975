@@ -224,8 +224,8 @@ I've integrated APIs and tools from OpenAI, Google, Anthropic, Mistral AI, Meta,
 ## GitHub Activity
 
 <p align="left">
-  <a href="https://github.com/josevitor555">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=josevitor555&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/josevitor10975">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=josevitor10975&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -250,4 +250,4 @@ I'm currently interested in opportunities where I can contribute to full-stack a
 
 ---
 
-![GitHub contribution snake animation](https://raw.githubusercontent.com/josevitor555/josevitor555/output/github-contribution-grid-snake-dark.svg?v=1)
+![GitHub contribution snake animation](https://raw.githubusercontent.com/josevitor10975/josevitor10975/output/github-contribution-grid-snake-dark.svg?v=1)
