@@ -18,9 +18,6 @@ I build modern web applications by combining modular backend architecture, respo
   <a href="https://github.com/josevitor555" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://dribbble.com/kral123" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
-  </a>
 </p>
 
 ---
